@@ -1,4 +1,4 @@
-<h1 align="center">🖊 Education</h1>
+<h1 align="left">🖊 Education</h1>
 
 <p align=left>
 Computer Engineering @ Polytechnical University of Turin.
@@ -20,7 +20,7 @@ Raised with a background in the humanities but always in love with computers and
 
 ## 📌 What I'm working on
 - 🎓 Completing my Bachelor's Degree in Computer Engineering  
-- ☕ Studying Object-Oriented Programming (Java)  
+- ☕ Studying Object-Oriented Programming (Java, C#)  
 - 🔍 Looking for an internship to grow and challenge myself  
 
 ---
